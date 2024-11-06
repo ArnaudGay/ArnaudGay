@@ -37,8 +37,9 @@ As a new developer, I’m building my toolkit! Here are some of the languages an
 Let’s share ideas, resources, and maybe a coffee chat! I’d love to connect with other developers, mentors, or anyone who shares a passion for technology and creativity.
 
 <p align="left">
-  <a href="www.linkedin.com/in/arnaudgay1234" target="_blank">
+  <a href="https://www.linkedin.com/in/arnaudgay1234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:arnaud.gay@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge> alt="mail"> 
+  </a>
