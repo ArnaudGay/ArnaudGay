@@ -9,7 +9,7 @@ I'm a budding developer with a passion for creating and a never-ending curiosity
 - 🧩 **Always curious about:** new inventions that can enhance human potential
 - 🌱 **Goal for this year:** Build my first portfolio
 - 📚 **Learning style:** Tea or chocolat, code, repeat! ☕💻
-- 🎨 **Fun fact:** [Something quirky, like "I can solve a Rubik's cube in under a minute!" or "I have a playlist for debugging sessions"]
+- 🎨 **Fun fact:** I make my first intership like porduct manager :nerd_face:
 
 ---
 
