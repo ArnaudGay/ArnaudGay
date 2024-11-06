@@ -5,9 +5,9 @@ I'm a budding developer with a passion for creating and a never-ending curiosity
 ---
 
 ## 🌟 About Me
-- 🚀 **Currently exploring:** [What you're learning, e.g., "JavaScript and the wonders of React"]
-- 🧩 **Always curious about:** [Topic or technology, e.g., "AI, machine learning, and how tech shapes our world"]
-- 🌱 **Goal for this year:** Build my first [specific goal, e.g., "open-source project" or "mobile app"]
+- 🚀 **Currently exploring:** Node.js with Anthony Alicea and Three.js with Bruno Simon
+- 🧩 **Always curious about:** new inventions that can enhance human potential
+- 🌱 **Goal for this year:** Build my first portfolio
 - 📚 **Learning style:** Tea or chocolat, code, repeat! ☕💻
 - 🎨 **Fun fact:** [Something quirky, like "I can solve a Rubik's cube in under a minute!" or "I have a playlist for debugging sessions"]
 
@@ -17,9 +17,10 @@ I'm a budding developer with a passion for creating and a never-ending curiosity
 As a new developer, I’m building my toolkit! Here are some of the languages and tools I’m excited to work with:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=blue" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=purple" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  
   <!-- Add more tools/languages as you learn them -->
 </p>
 
