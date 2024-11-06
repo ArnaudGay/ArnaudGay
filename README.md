@@ -43,3 +43,4 @@ Let’s share ideas, resources, and maybe a coffee chat! I’d love to connect w
   <a href="mailto:arnaud.gay@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge> alt="mail"> 
   </a>
+</p>
